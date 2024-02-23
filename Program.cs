@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
-        }
+            Uygulama1 kgk =new Uygulama1();
+            kgk.appRun();
+        } 
     }
 }
